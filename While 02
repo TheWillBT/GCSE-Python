@@ -1,0 +1,6 @@
+n = 0
+
+while n <= 5:
+    n = n + int(input("NUMBER?"))
+
+print("Your number was,", n)
