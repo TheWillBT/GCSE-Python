@@ -1,0 +1,9 @@
+n = int(input("NUMBER?"))
+v1 = n
+total = v1
+y = "y"
+
+while  :
+    n2 = int(input("NUMBER?"))
+
+    makes no sense
