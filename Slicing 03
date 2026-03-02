@@ -1,0 +1,3 @@
+FN = input("Enter first name in lowercases:")
+LN = input("Enter last name in lowercase:")
+print(FN + " " + LN)
