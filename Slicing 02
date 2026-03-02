@@ -2,7 +2,7 @@ name = input("Enter your name:")
 print(len(name))
 
 FirstName = input("Gimme your first name:")
-LastName = input("Gimme your last name:")
+LastName = input("Gimme your last name:") 
 Name = FirstName + LastName
 print(Name)
 print(FirstName, LastName)
