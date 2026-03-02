@@ -1,6 +1,6 @@
 rhyme = input("FIrst line of rhyme:")
 length = (len(rhyme))
 print("This has", length, "letters in it.")
-n1 = int(input("Enter a number:")
-n2 = int(input("Enter a number:")
+n1 = int(input("Enter a number:"))
+n2 = int(input("Enter a number:"))
 print(rhyme[n1:n2])
