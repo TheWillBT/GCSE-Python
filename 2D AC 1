@@ -2,5 +2,5 @@ MySpaceCompany = []
 space_v1 = input("Give me a space vehicle.")
 space_v2 = input("Give me a space vehicle, again.")
 space_v3 = input("Give me a space vehicle, again!")
-MySpaceCompany.append([space_v1, space_v2, space_v3])
+MySpaceCompany = [space_v1, space_v2, space_v3]
 print(MySpaceCompany)
