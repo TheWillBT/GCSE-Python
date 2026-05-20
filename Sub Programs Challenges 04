@@ -1,0 +1,20 @@
+def NMG():
+    1 == print("Creative")
+    2 == print("Survival")
+    3 == print("Hardcore")
+    4 == print("Adventure")
+    5 == print("Exit")
+    choose = int(input("Choose an option:"))
+    if choose == 1:
+        print("Creative selected")
+    elif choose == 2:
+        print("Survival selected")
+    elif choose == 3:
+        print("Hardcore selected")
+    elif choose == 4:
+        print("Adventure selected")
+    elif choose == 5:
+        print("exiting...")
+    elif choose < 6:
+        print("invalid")
+NMG()
