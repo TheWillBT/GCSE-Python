@@ -1,0 +1,15 @@
+def MKgame():
+    1 == print("1-player")
+    2 == print("2-player")
+    3 == print("Online")
+    4 == print("Exit")
+    choose = int(input("Choose an option:"))
+    if choose == 1:
+        print("1 player selected")
+    elif choose == 2:
+        print("2 player selected")
+    elif choose == 3:
+        print("Online selected")
+    elif choose == 4:
+        print("exiting...")
+MKgame()
