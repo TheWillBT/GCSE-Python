@@ -1,0 +1,6 @@
+def COD():
+    1 == print("Domination")
+    2 == print("Team Deathmatch")
+    3 == print("Headquarters")
+COD()
+choice = input("Choose your mode, 1, 2, 3")
