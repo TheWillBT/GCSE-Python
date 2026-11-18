@@ -1,0 +1,6 @@
+file = open("numbers.txt", "w")
+for i in range(5):
+    numbers = str(input("Write any number:"))
+    file.write(numbers)
+file.close()
+print("Go open the file!")
