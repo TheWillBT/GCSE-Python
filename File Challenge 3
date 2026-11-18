@@ -1,0 +1,3 @@
+file2 = open("names.txt", "r")
+print(file2.read())
+file2.close()
