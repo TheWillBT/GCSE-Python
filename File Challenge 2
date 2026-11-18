@@ -1,0 +1,7 @@
+file2 = open("names.txt", "w")
+file2.write("Will\n")
+file2.write("Rohith\n")
+file2.write("Sam\n")
+file2.write("Seb\n")
+file2.write("Lucian\n")
+file2.close()
